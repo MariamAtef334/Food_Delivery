@@ -2,9 +2,6 @@
 https://resturantsite334.netlify.app
 ## Food Ordering App
 
-### Features:
-
----
 
 ##### Here's features included in this project
 
