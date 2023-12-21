@@ -11,6 +11,7 @@ https://resturantsite334.netlify.app
 - Product page
 - Cart and checkout page
 - Sort products
+- Pagination
 - Search
 - Filteration
 - Slider
