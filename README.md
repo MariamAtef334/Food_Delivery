@@ -11,6 +11,8 @@ https://resturantsite334.netlify.app
 - Product page
 - Cart and checkout page
 - Sort products
+- Search
+- Filteration
 - Display review form
 - Awesome modern minimalist UI
 
@@ -21,7 +23,9 @@ https://resturantsite334.netlify.app
 1. React.js
 2. Redux Toolkit
 3. Bootstrap
-4. CSS
+4. HTML
+5. CSS
+6. JS
 
 ### How to start?
 
