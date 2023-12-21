@@ -13,6 +13,7 @@ https://resturantsite334.netlify.app
 - Sort products
 - Search
 - Filteration
+- Slider
 - Display review form
 - Awesome modern minimalist UI
 
